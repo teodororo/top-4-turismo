@@ -1,0 +1,7 @@
+folium==0.14.0
+pandas_profiling==3.6.6
+numpy==1.19.0
+pandas==1.4.4
+matplotlib==3.6.3
+jupyter==1.0.0
+openpyxl==3.0.3
